@@ -14,10 +14,10 @@ The "Tire Price Analysis" dataset provides comprehensive information on tire pro
 
 ## Contributors
 
-- [Joyce Kihodu]
-- [Manasa Kathula]
-- [Tobi Oladimeji]
-- [Mohammed Arsad]
+- Joyce Kihodu
+- Manasa Kathula
+- Tobi Oladimeji
+- Mohammed Arsad
 
 ## Client
 
