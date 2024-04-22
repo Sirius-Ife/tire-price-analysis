@@ -14,10 +14,10 @@ The "Tire Price Analysis" dataset provides comprehensive information on tire pro
 
 ## Contributors
 
-- [Joyce Kihodu](https://github.com/joycekih)
-- [Manasa Kathula](https://github.com/manasakathula)
-- [Tobi Oladimeji](https://github.com/tobioladimeji)
-- [Mohammed Arsad](https://github.com/mohammedarsad27)
+- [Joyce Kihodu]
+- [Manasa Kathula]
+- [Tobi Oladimeji]
+- [Mohammed Arsad]
 
 ## Client
 
